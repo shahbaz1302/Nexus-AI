@@ -38,7 +38,7 @@ Free text usage is stored in the user's Clerk `privateMetadata.free_usage` value
 - Clipdrop Text-to-Image API for image generation
 - Cloudinary for image hosting and transformations
 - Axios for client-to-server requests
-- `pdf-parse` for extracting resume text
+- `unpdf` for extracting resume text
 - `react-markdown`, `react-hot-toast`, `framer-motion`, `swiper`, and `lucide-react` for the UI
 
 ## Requirements
@@ -161,7 +161,6 @@ src/
   config/db.ts                  Neon database client
   lib/auth.ts                   Clerk auth context and plan checks
   lib/cloudinary.ts             Cloudinary configuration helper
-  lib/multer.ts                 Upload-related helper
 public/                         Logos and static assets
 ```
 

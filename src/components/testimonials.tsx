@@ -15,7 +15,7 @@ import { cn } from "@/lib/utils";
 const Testimonials = () => {
   const images = [
     {
-      src: "/write-article.webp",
+      src: "/testimonials-1.webp",
       alt: "Sarah Johnson",
       name: "Sarah Johnson",
       role: "Content Creator",
@@ -24,7 +24,7 @@ const Testimonials = () => {
       rating: 5,
     },
     {
-      src: "/blog-titles.webp",
+      src: "/testimonials-2.webp",
       alt: "Michael Chen",
       name: "Michael Chen",
       role: "Startup Founder",
@@ -33,7 +33,7 @@ const Testimonials = () => {
       rating: 5,
     },
     {
-      src: "/generate-images.webp",
+      src: "/testimonials-3.webp",
       alt: "Emily Carter",
       name: "Emily Carter",
       role: "Digital Marketer",
@@ -42,7 +42,7 @@ const Testimonials = () => {
       rating: 5,
     },
     {
-      src: "/review-resume.webp",
+      src: "/testimonials-4.webp",
       alt: "David Wilson",
       name: "David Wilson",
       role: "Freelance Designer",
@@ -51,7 +51,7 @@ const Testimonials = () => {
       rating: 4,
     },
     {
-      src: "/remove-background.webp",
+      src: "/testimonials-5.webp",
       alt: "Sophia Martinez",
       name: "Sophia Martinez",
       role: "Job Seeker",
@@ -60,7 +60,7 @@ const Testimonials = () => {
       rating: 5,
     },
     {
-      src: "/remove-object.webp",
+      src: "/testimonials-6.webp",
       alt: "James Anderson",
       name: "James Anderson",
       role: "Product Designer",
@@ -69,7 +69,7 @@ const Testimonials = () => {
       rating: 5,
     },
     {
-      src: "/write-article.webp",
+      src: "/testimonials-7.webp",
       alt: "Olivia Brown",
       name: "Olivia Brown",
       role: "Blogger",
@@ -78,7 +78,7 @@ const Testimonials = () => {
       rating: 4,
     },
     {
-      src: "/blog-titles.webp",
+      src: "/testimonials-8.webp",
       alt: "Daniel Thompson",
       name: "Daniel Thompson",
       role: "Software Developer",
@@ -87,7 +87,7 @@ const Testimonials = () => {
       rating: 5,
     },
     {
-      src: "/generate-images.webp",
+      src: "/testimonials-9.webp",
       alt: "Ava Williams",
       name: "Ava Williams",
       role: "Social Media Manager",
@@ -96,7 +96,7 @@ const Testimonials = () => {
       rating: 5,
     },
     {
-      src: "/review-resume.webp",
+      src: "/testimonials-10.webp",
       alt: "Ethan Davis",
       name: "Ethan Davis",
       role: "Marketing Consultant",

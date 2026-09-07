@@ -164,7 +164,7 @@ const GenerateImages = () => {
                 onClick={downloadImage}
                 aria-label="Download processed image"
                 title="Download processed image"
-                className="mt-3 self-end rounded-lg p-2 text-slate-600 transition-colors hover:bg-white/30"
+                className="mt-3 self-end rounded-lg p-2 cursor-pointer text-slate-600 transition-colors hover:bg-white/30"
               >
                 <Download className="h-5 w-5" />
               </button>
